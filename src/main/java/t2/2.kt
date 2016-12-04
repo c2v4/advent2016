@@ -1,4 +1,4 @@
-package `2`
+package t2
 
 fun main(args: Array<String>) {
     var line = readLine()
